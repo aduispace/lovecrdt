@@ -73,7 +73,7 @@ __Set Unions__
 
 ## Soundcloud example
 
-- [github.com/soundcloud/roshi](github.com/soundcloud/roshi)
+- [github.com/soundcloud/roshi](https://github.com/soundcloud/roshi)
 
 ```
  [r] [r] [r]   [r] [r] [r]
