@@ -1,4 +1,4 @@
-# Consistency without consensus in production systems
+# Consistency without consensus in production systems [Video Talk](https://www.youtube.com/watch?v=em9zLzM8O7c&list=PLzUeAPxtWcqxBXjUelmcm5ORVjEpbUlHH)
 
 ## Idioms
 
