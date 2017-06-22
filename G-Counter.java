@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 import static java.lang.Math.max;
-// import crdt.CRDT;
+import crdt.CRDT;
 
 /**
  * Grow only counter. Can only be incremented
