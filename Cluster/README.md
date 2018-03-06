@@ -2,8 +2,6 @@
 
 # cluster
 
-[![GoDoc](https://godoc.org/github.com/soundcloud/roshi/cluster?status.png)](https://godoc.org/github.com/soundcloud/roshi/cluster)
-
 Package cluster provides an Insert/Select/Delete API on top of a single
 [Pool object][pool]. Cluster accepts KeyScoreMember tuples from clients,
 which map to [Redis sorted set semantics][zset]. Briefly, **key** identifies
